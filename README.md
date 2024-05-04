@@ -1,2 +1,2 @@
 # HTML-basico
-Primeiros passos com HTML
+Primeiros passos com HTML, colocando em prática todo aprendizado.
